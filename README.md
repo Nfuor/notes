@@ -3,35 +3,59 @@
 ## Number Row Characters
 
 ~
+* Tilde
+* Around sign
 
 !
+* Exclamation mark
 
 @
+* At sign
 
 \#
+* Hash
+* Number sign
+* Pound sign
 
 $
+* Dollar sign
 
 %
+* Percent sign
 
 ^
+* Caret sign
 
-&
+\&
+* Ampersand
+* And sign
 
 \*
+* Asterisk
+* Star sign
 
 (
+* Left parentheses
+* Left round bracket
 
 )
+* Right parentheses
+* Right round bracket
 
 _
+* Underscore
+* Low line
+* Low dash 
 
 \+
+* Plus sign
 
 / 
+* Slash
+* Forward slash
 
 \-
-
+* Hyphen
 
 ## Links
 
