@@ -1,6 +1,5 @@
 # notes
 
-
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-F (find)
