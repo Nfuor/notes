@@ -1,12 +1,12 @@
 # notes
 
 ## Keyboard shortcuts
-Shortcuts I frequently use: 
+### Shortcuts I frequently use: 
 - Ctrl-F (find)
 - Ctrl-V (paste)
 - Ctrl-C (copy)
 
-## Shortcuts I would like to start using: 
+### Shortcuts I would like to start using: 
 - Windows Key + Q (search)
 - Ctrl-B (expands side bar)
 - Ctrl-N (opens new browser page)
