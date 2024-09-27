@@ -1,6 +1,5 @@
 # notes
 
-## Number Row Characters
 
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
@@ -13,6 +12,7 @@ Shortcuts I frequently use:
 - Ctrl-B (expands side bar)
 - Ctrl-N (opens new browser page)
 
+## Number Row Characters
 ~
 * Tilde
 * Around sign
