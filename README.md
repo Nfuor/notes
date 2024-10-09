@@ -75,7 +75,7 @@ _
 
 * [Codecademy](https://www.codecademy.com/)
 
-* [CLI commands] (docs/cli.md)
+* [CLI commands] (/nfuor/notes/docs/cli.md)
 
 
 ## Emojis 
