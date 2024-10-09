@@ -75,6 +75,8 @@ _
 
 * [Codecademy](https://www.codecademy.com/)
 
+* [CLI commands] (docs/cli.md)
+
 
 ## Emojis 
 
