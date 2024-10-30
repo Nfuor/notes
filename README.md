@@ -77,6 +77,8 @@ _
 
 * [CLI commands](docs/cli.md)
 
+* [Players.json file](docs/players.json)
+
 
 ## Emojis 
 
