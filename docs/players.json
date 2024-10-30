@@ -2,14 +2,21 @@
     {
       "Name":"Lebron James", //string
       "Sport":"Basketball", //string
-      "Team":{"Name":"Lakers", "City":"Los Angeles"}, //sub-object 
+      "Team": //sub-object
+      {"Name":"Lakers", //string
+      "City":"Los Angeles" //string
+      }, 
       "Position":"Forward", //string
       "Age":38 //number
     },
+    
     {
       "Name":"Lionel Messi", //string
       "Sport":"Soccer",  //string
-      "Team":{"Name":"Inter Miami", "City":"Miami"}, //sub-object
+      "Team": //sub-object
+      {"Name":"Inter Miami", //string 
+      "City":"Miami" //string
+      }, 
       "Position":"Forward", //string
       "Age":36 //number
     },
@@ -17,7 +24,10 @@
     {
      "Name":"Serena Williams", //string
      "Sport":"Tennis", //string
-     "Team":{"Name":null, "City":null}, //sub-object
+     "Team": //sub-object
+     {"Name":null, //null
+     "City":null //null
+     },
      "Posiition":"Player", //string
      "Age":41 //number
     },
@@ -25,7 +35,10 @@
     {
      "Name":"Tom Brady", //string
      "Sport":"Football", //string
-     "Team":{"Name":"Buccaneers", "City":"Tampa Bay"}, //sub-object
+     "Team": //sub-object
+     {"Name":"Buccaneers", //string 
+     "City":"Tampa Bay" //string
+     }, 
      "Position":"Quarterback", //string
      "Age":46 //number
     }
