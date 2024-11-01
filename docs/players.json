@@ -2,7 +2,8 @@
     {
       "Name":"Lebron James", //string
       "Sport":"Basketball", //string
-      "Team": {"Name":"Lakers", "City":"Los Angeles"}, //object
+      "Team": 
+      {"Name":"Lakers", "City":"Los Angeles"}, //object
       "Position":"Forward", //string
       "Age":38 //number
     },
